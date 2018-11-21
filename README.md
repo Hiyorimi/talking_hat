@@ -1,6 +1,5 @@
-===============================
 Talking Hat
-===============================
+===========
 
 Harry Potter's Talking Hat ML implementation.
 
