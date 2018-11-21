@@ -1,0 +1,9 @@
+wheel
+pandas==0.23.4
+python-dateutil==2.7.3
+pytz==2018.5
+scikit-learn==0.19.2
+six==1.11.0
+sklearn==0.0
+xgboost==0.80
+flask
