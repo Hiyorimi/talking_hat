@@ -9,7 +9,7 @@ RUN pip3 install -r /requirements.txt
 
 
 RUN mkdir /code;mkdir /code/models
-COPY ./python_api.py ./letter.py ./request.py /code/
+COPY ./python_api.py ./letter.py /code/
 COPY ./models/* /code/models/
 
 
